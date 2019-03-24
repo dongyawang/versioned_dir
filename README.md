@@ -1,7 +1,2 @@
-#Hello
-
-This is a text file.
-
-This is the second modify.
-
-The cat goes mieow.
+#Hello GitHub
+This is a README.md file that will be usd to describe this repository on GitHub
